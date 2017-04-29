@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  start: MyString
+  end: MyString
+  non_dtop: 
+  t_arrive: 2017-04-29 23:16:19
+  day: MyText
+
+two:
+  start: MyString
+  end: MyString
+  non_dtop: 
+  t_arrive: 2017-04-29 23:16:19
+  day: MyText
